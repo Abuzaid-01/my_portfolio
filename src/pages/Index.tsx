@@ -401,7 +401,7 @@ const Index = () => {
                     <div className="flex flex-wrap gap-4 text-xs text-muted-foreground mb-4">
                       <span className="flex items-center gap-1.5">
                         <Calendar className="w-3 h-3 text-primary/60" />
-                        2025 — present
+                        April 2026 — present
                       </span>
                     </div>
 
